@@ -1,19 +1,8 @@
 # Cardiio
-INSTALLATION MANUAL
-First download the APK from the folder ,
-Then open the APK file to begin installation 
-After installation complete user can sign up or log in to use the app.
-------------------------------------------------------------------------------
+A Basic Health Monitoring as per requirement for my school final year project. What this app does is essentially tracks your heart and oxygen levels using a arduino board which is linked to the Google Firebase which is then linked to the app that is also linked to Google Firebase. I've included the admin logins if u want to use it, test it, improve it.
 GitHub Link(Source Code)
-https://github.com/thara0122/Cardiio
+https://github.com/Lynx112/Cardiio-Health-Tracker.git
 ------------------------------------------------------------------------------
-USER
-Username : tharatharani2@gmail.com
- Password: User1234
-Username :lanin90730@incoware.com
-Password: User1234
-Username :nobeyoc892@hypteo.com
-Password :User1234
 
 ADMIN
 Username :migthblack2@gmail.com
